@@ -1,0 +1,7 @@
+Compliance Report - 2025-03-06 23:06:41.767491
+---------------------------------------------------
+Total Flagged Transactions: 1
+
+Flagged Transactions Details:
+      amount  hour  day_of_week  day_of_month
+1  46.909999    14            2             1
